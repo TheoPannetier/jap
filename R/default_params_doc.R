@@ -8,7 +8,7 @@
 #' @param message a message to be print
 #' @param t time
 #' @param verbose choose if you want to print the output or not
-#' @author Documentation by Giovanni Laudanno,
+#' @author Documentation by Giovanni Laudanno
 #' @note This is an internal function, so it should be marked with
 #'   \code{@noRd}. This is not done, as this will disallow all
 #'   functions to find the documentation parameters
